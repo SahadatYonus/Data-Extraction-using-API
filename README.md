@@ -1,14 +1,11 @@
 # Data-Extraction-using-API
 
 # About
-This is a project of extracting data using APIs. 
-## Aim: 
-To practice different HTTP request
-To learn extracting values/data from complex lists and nested dictionaries
-To understand reading the documention of an API. 
-
-## Libraray Used
-The library we used was `requests`.
+This is a project of extracting data using APIs by `requests` library. 
+### Aim: 
+* To practice different HTTP request
+* To learn extracting values/data from complex lists and nested dictionaries
+* To understand reading the documention of an API. 
 
 # Files in this repo
 ## I. Transport For London data extraction.ipynb
@@ -54,6 +51,6 @@ They have an API that allows user interact with their services and work with the
 * people
 
 # Challenges/What I learnt
-1. I didn't face any challenges. But I learnt working with APIs and using `request` library. Using `JSON` helped me when learning more about data extraction from `json`, `xml`, and `html`. 
+I didn't face any challenges. But I learnt working with APIs and using `request` library. Using `JSON` helped me when learning more about data extraction from `json`, `xml`, and `html`. 
 
 
